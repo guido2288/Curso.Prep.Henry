@@ -1,0 +1,7 @@
+for: se utiliza para repetir una o mas instrucciones una determinada cantidad de veces. Generalmente se utiliza cuando sabemos cuantas veces queremos que se repita y se ejecute el codigo.
+
+&& : es un operador logico, se utiliza para determinar si 2 o mas expreciones son verdaderas, por ejemplo 1 < 10 && 2 < 20 en este caso sería true.
+
+|| : es un operador logico, se utiliza para determinar si una de las expreciones es verdadera, por ejemplo 1 < 10 || 2 > 20 en este caso sería true porque una de ellas es verdadera.
+
+! : es un operador logico de negacion, se utiliza para devolver el valor booleano opuesto, por ejemplo !( 1 === 1 ) esto  devolvera false
