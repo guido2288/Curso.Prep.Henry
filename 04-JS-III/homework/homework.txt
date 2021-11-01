@@ -1,0 +1,1 @@
+Arrays : son listas de elementos, pueden tener numeros, strings, booleanos , funciones , etc. Se pueden almacenar en una  variable, y se puede invocar un elemento de la misma o todos.
