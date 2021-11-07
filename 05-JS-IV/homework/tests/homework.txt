@@ -1,0 +1,10 @@
+Objetos : los objetos son elementos que pueden contener mucha informacion, a travez de diferentes propiedades que tiene.
+
+propiedades : las propiedades son las variables asociadas a ese objeto (lo que contiene el objeto)
+
+Metodos : son funciones dentro de los objetos, que se pueden invocar usando notación de puntos seguido de () 
+
+Bucle for..in : se utiliza cuando queremos iterar sobre cada propiedad del objeto
+
+Notación de puntos vs notación de corchetes : son las diferentes formas de acceder a la propiedad del objeto, con la notacion de puntos podemos llamar al nombre del objeto , un punto y el nombre de la propiedad. 
+ Con la notacion de corchetes tenemos que usar corchetes y dentro un string con el nombre de la propiedad que queremos invocar.
