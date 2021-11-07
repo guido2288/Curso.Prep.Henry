@@ -1,0 +1,1 @@
+Callbacks : son funciones que pasan otras funciones como argumento.
